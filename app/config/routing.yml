@@ -1,0 +1,2 @@
+_zot_core:
+    resource: "@ZotCoreBundle/Resources/config/routing.yml"
